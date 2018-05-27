@@ -11,7 +11,7 @@ What will the ratio of boys to girls be in this society?
 # SPOILER:
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to see solution</summary>
  The test code runs 100 million couples who each produce children until they produce a girl.
 It prints out the final total number of boys : then the final total number of girls.
 then it prints out the ratio  (boys/girls)
