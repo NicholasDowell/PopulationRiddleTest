@@ -8,14 +8,11 @@ Assume that the chance of getting a boy is 50% and the chance of getting a girl 
 What will the ratio of boys to girls be in this society?
 
 
-
-
-
-
-
-
 # SPOILER:
-The test code runs 100 million couples who each produce children until they produce a girl.
+
+<details>
+  <summary>Click to expand</summary>
+ The test code runs 100 million couples who each produce children until they produce a girl.
 It prints out the final total number of boys : then the final total number of girls.
 then it prints out the ratio  (boys/girls)
 
@@ -38,4 +35,7 @@ GBBBGBGG
 
 Under this view, the next birth that would happen at any given time simply adds either a boy or a girl, with a 50/50 chance.
 when you look at it as a series of births, it seems obvious that the ratio would be 1:1
+
+
+</details>
 
